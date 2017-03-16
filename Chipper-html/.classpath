@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Chipper"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gdx-backend-gwt-sources.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gdx-backend-gwt.jar" sourcepath="war/WEB-INF/lib/gdx-backend-gwt-sources.jar"/>
+	<classpathentry kind="lib" path="/Chipper/libs/gdx-sources.jar"/>
+	<classpathentry kind="lib" path="/Chipper/libs/gdx.jar" sourcepath="/Chipper/libs/gdx-sources.jar"/>
+	<classpathentry kind="lib" path="/Chipper/libs/tween-engine-api-sources.jar"/>
+	<classpathentry kind="lib" path="/Chipper/libs/tween-engine-api.jar" sourcepath="/Chipper/libs/tween-engine-api-sources.jar"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER/GWT"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>

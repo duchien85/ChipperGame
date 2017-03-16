@@ -1,0 +1,16 @@
+version 1.3
+- Added Quick Play button when player isn't in a hand to speed up play of that hand
+- Slightly lowered No Trump bid chance in AI
+- Stopped 2 No Trump from being a valid bid for player or AI
+- Fixed display for players bid value during bidding phase
+- Fixed handling of all players Passing
+- Fixed a bug where bid and stay phases were registering button presses when it wasn't the players turn
+- Updated Game Over screen to to display only a P on a passed hand and a C on a successful Chipper
+
+version 1.2
+- Fixed a bug where a card would be stuck on the playing field when you restart a game
+- Added Scoring section to instructions
+- Added entry for passed hands in final scoring, marked with a P
+version 1.1
+- Fixed a crash caused by clicking multiple times quickly when playing a card out of the players hand
+- Added version to main menu screen
